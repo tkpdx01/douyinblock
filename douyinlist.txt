@@ -1,0 +1,10 @@
+||douyin.com^$important
+||douyincdn.com^$important
+||toutiao.com^$important
+||snssdk.com^$important
+||ixigua.com^$important
+||amemv.com^$important
+||bytedance.net^$important
+||bdurl.net^$important
+||douyincdn.com^$important
+||yximgs.com^$important
